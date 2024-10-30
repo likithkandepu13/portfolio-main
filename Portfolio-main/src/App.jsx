@@ -8,6 +8,7 @@ import Contact from './pages/Contact';
 
 const App = () => {
     return (
+        //good
         <main className='bg-slate-300/20 h-full'>
             <Router>
                 <Navbar />
